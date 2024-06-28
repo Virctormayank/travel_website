@@ -1,3 +1,3 @@
-# travel_website - Responsive accroding to devices
+# travel_website - Responsive according to devices
 HTML,CSS,JAVASCRIPT
 
